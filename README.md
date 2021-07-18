@@ -5,12 +5,11 @@ The setups steps expect following tools installed on the system.
 - Github
 - Ruby [2.7.3](https://github.com/organization/project-name/blob/master/.ruby-version#L1)
 - Rails [6.1.4](https://github.com/organization/project-name/blob/master/Gemfile#L12)
-- 
 
 ##### 1. Check out the repository
 
 ```bash
-git clone git@github.com:organization/project-name.git
+git clone https://github.com/gmldnjs26/ruby-api-server.git
 ```
 
 ##### 2. Create database.yml file
